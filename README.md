@@ -1,0 +1,2 @@
+# ucapan
+ini adalah ucapan
